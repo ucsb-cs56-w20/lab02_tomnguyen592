@@ -1,6 +1,7 @@
 # lab02_tomnguyen592
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02_tomnguyen592/
+
 Repo: https://github.com/ucsb-cs56-w20/lab02_tomnguyen592
 
 # About this repo
